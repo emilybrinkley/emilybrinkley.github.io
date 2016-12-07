@@ -29,8 +29,8 @@ a:hover {
   text-align: center;
 }
 
-.main-logo {
-  padding-left: 20px;
+.main-logo img {
+  margin: -25px;
 }
 
 .nav {
@@ -127,6 +127,10 @@ ul.skills {
 
 .secondary a {
   color: #8D9AA5;
+}
+
+.secondary p {
+  margin: 8px;
 }
 
 footer {
